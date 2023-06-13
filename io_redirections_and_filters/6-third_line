@@ -1,2 +1,2 @@
 #!/bin/bash
-find  iacta/third line
+head -3 iacta | tail +3
