@@ -1,2 +1,2 @@
 #!/bin/bash
-tr iacta/third line
+grep third cat iacta
